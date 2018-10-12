@@ -5,7 +5,6 @@ sslverify=0
 
 [filtering]
 ignore=
-  public.tableau.com
   http://www.intel.com/software/products/support
 ignorewarnings=http-robots-denied,https-certificate-error
 
